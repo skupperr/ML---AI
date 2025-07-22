@@ -1,0 +1,16 @@
+Arad Zerind 75
+Arad Timisoara 118
+Arad Sibiu 140
+Zerind Oradea 71
+Timisoara Lugoj 111
+Sibiu Oradea 151
+Sibiu Fagaras 99
+Sibiu Rimnicu 80
+Lugoj Mehadia 70
+Fagaras Bucharest 211
+Rimnicu Pitesti 97
+Rimnicu Craiova 146
+Mehadia Dobreta 75
+Pitesti Bucharest 101
+Pitesti Craiova 138
+Dobreta Craiova 120
